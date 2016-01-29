@@ -1,219 +1,219 @@
-no,country,rate,count,region,subregion,year
-1,Afghanistan,6.5,1948,Asia,Southern Asia,2012
-2,Albania,5,157,Europe,Southern Europe,2012
-3,Algeria,0.7,280,Africa,Northern Africa,2011
-4,Andorra,1.3,1,Europe,Southern Europe,2010
-5,Angola,10,2079,Africa,Middle Africa,2012
-6,Anguilla (UK),7.5,1,Americas,Caribbean ,2012
-7,Antigua and Barbuda,11.2,10,Americas,Caribbean ,2012
-8,Argentina,5.5,2237,Americas,South America,2010
-9,Armenia,1.8,54,Asia,Western Asia,2012
-10,Aruba (Netherlands),3.9,4,Americas,Caribbean ,2010
-11,Australia,1.1,254,Oceania,Australasia ,2012
-12,Austria,0.9,77,Europe,Western Europe,2012
-13,Azerbaijan,2.1,194,Asia,Western Asia,2010
-14,Bahamas,29.8,111,Americas,Caribbean ,2012
-15,Bahrain,0.5,7,Asia,Western Asia,2011
-16,Bangladesh,2.7,4169,Asia,Southern Asia,2012
-17,Barbados,7.4,21,Americas,Caribbean ,2012
-18,Belarus,3.6,340,Europe,Eastern Europe,2012
-19,Belgium,1.6,182,Europe,Western Europe,2012
-20,Belize,44.7,145,Americas,Central America,2012
-21,Benin,8.4,848,Africa,Western Africa,2012
-22,Bermuda (UK),7.7,5,Americas,Northern America,2012
-23,Bhutan,1.7,12,Asia,Southern Asia,2012
-24,Bolivia,12.1,1270,Americas,South America,2012
-25,Bosnia and Herzegovina,1.3,51,Europe,Southern Europe,2011
-26,Botswana,18.4,368,Africa,Southern Africa,2012
-27,Brazil,25.2,50108,Americas,South America,2012
-28,British Virgin Islands (UK),8.4,2,Americas,Caribbean ,2006
-29,Brunei,2,8,Asia,South-Eastern Asia,2012
-30,Bulgaria,1.5,108,Europe,Eastern Europe,2013
-31,Burkina Faso,8,1311,Africa,Western Africa,2012
-32,Burundi,8,790,Africa,Eastern Africa,2012
-33,Cambodia,6.5,964,Asia,South-Eastern Asia,2012
-34,Cameroon,7.6,1654,Africa,Middle Africa,2012
-35,Canada,1.4,505,Americas,Northern America,2013
-36,Cape Verde,10.3,51,Africa,Western Africa,2012
-37,Cayman Islands (UK),14.7,8,Americas,Caribbean ,2009
-38,Central African Republic,11.8,532,Africa,Middle Africa,2012
-39,Chad,7.3,907,Africa,Middle Africa,2012
-40,Chile,3.1,550,Americas,South America,2012
-41,China,1,13410,Asia,Eastern Asia,2010
-42,Colombia,30.8,14670,Americas,South America,2012
-43,Comoros,10,72,Africa,Eastern Africa,2012
-44,Congo,12.5,541,Africa,Middle Africa,2012
-45,Cook Islands,3.1,,Oceania,Polynesia ,2012
-46,Costa Rica,8.5,407,Americas,Central America,2012
-47,Croatia,1.2,51,Europe,Southern Europe,2012
-48,Cuba,4.2,477,Americas,Caribbean ,2012
-49,Cyprus,2,23,Asia,Western Asia,2012
-50,Czech Republic,0.9,98,Europe,Eastern Europe,2013
-51,Democratic Republic of the Congo,28.3,18586,Africa,Middle Africa,2012
-52,Denmark,0.8,47,Europe,Northern Europe,2012
-53,Djibouti,10.1,87,Africa,Eastern Africa,2012
-54,Dominica,21.1,15,Americas,Caribbean ,2010
-55,Dominican Republic,22.1,2268,Americas,Caribbean ,2012
-56,Ecuador,12.4,1924,Americas,South America,2012
-57,Egypt,3.4,2703,Africa,Northern Africa,2011
-58,El Salvador,41.2,2594,Americas,Central America,2012
-59,Equatorial Guinea,19.3,142,Africa,Middle Africa,2012
-60,Eritrea,7.1,437,Africa,Eastern Africa,2012
-61,Estonia,5,65,Europe,Northern Europe,2011
-62,Ethiopia,12,1148,Africa,Eastern Africa,2012
-63,Fiji,4,35,Oceania,Melanesia ,2012
-64,Finland,1.6,89,Europe,Northern Europe,2012
-65,France,1,665,Europe,Western Europe,2012
-66,French Guiana (France),13.3,30,Americas,South America,2009
-67,French Polynesia (France),0.4,1,Oceania,Polynesia ,2009
-68,Gabon,9.1,148,Africa,Middle Africa,2012
-69,Gambia,10.2,182,Africa,Western Africa,2012
-70,Georgia,4.3,187,Asia,Western Asia,2010
-71,Germany,0.8,662,Europe,Western Europe,2011
-72,Ghana,6.1,1537,Africa,Western Africa,2012
-73,Greece,1.7,184,Europe,Southern Europe,2011
-74,Greenland (Denmark),19.4,11,Americas,Northern America,2009
-75,Grenada,13.3,14,Americas,Caribbean ,2012
-76,Guadeloupe (France),7.9,36,Americas,Caribbean ,2009
-77,Guam (US),2.5,4,Oceania,Micronesia ,2011
-78,Guatemala,39.9,625,Americas,Central America,2012
-79,Guinea,8.9,118,Africa,Western Africa,2012
-80,Guinea-Bissau,8.4,140,Africa,Western Africa,2012
-81,Guyana,17,135,Americas,South America,2012
-82,Haiti,10.2,133,Americas,Caribbean ,2012
-83,Honduras,90.4,7172,Americas,Central America,2012
-84,Hong Kong,0.9,62,Asia,Eastern Asia,2013
-85,Hungary,2.7,265,Europe,Eastern Europe,2013
-86,Iceland,0.3,1,Europe,Northern Europe,2012
-87,India,3.5,43355,Asia,Southern Asia,2012
-88,Indonesia,0.6,1456,Asia,South-Eastern Asia,2012
-89,Iran,3.9,3126,Asia,Southern Asia,2012
-90,Iraq,8,2628,Asia,Western Asia,2012
-91,Ireland,1.2,54,Europe,Northern Europe,2012
-92,Israel,1.8,134,Asia,Western Asia,2012
-93,Italy,0.9,530,Europe,Southern Europe,2012
-94,Ivory Coast,13.6,2691,Africa,Western Africa,2012
-95,Jamaica,39.3,1087,Americas,Caribbean ,2012
-96,Japan,0.3,442,Asia,Eastern Asia,2011
-97,Jordan,2,133,Asia,Western Asia,2011
-98,Kazakhstan,7.8,1263,Asia,Central Asia,2012
-99,Kenya,6.4,2761,Africa,Eastern Africa,2012
-100,Kiribati,8.2,8,Oceania,Micronesia ,2011
-101,Kosovo,3.6,64,Europe,Southern Europe,2010
-102,Kuwait,0.4,12,Asia,Western Asia,2012
-103,Kyrgyzstan,9.1,494,Asia,Central Asia,2011
-104,Laos,5.9,392,Asia,South-Eastern Asia,2012
-105,Latvia,4.7,97,Europe,Northern Europe,2012
-106,Lebanon,2.2,95,Asia,Western Asia,2010
-107,Lesotho,38,764,Africa,Southern Africa,2010
-108,Liberia,3.2,135,Africa,Western Africa,2012
-109,Libya,1.7,103,Africa,Northern Africa,2012
-110,Liechtenstein,0,0,Europe,Western Europe,2012
-111,Lithuania,6.7,202,Europe,Northern Europe,2012
-112,Luxembourg,0.8,4,Europe,Western Europe,2011
-113,Macao,1.4,8,Asia,Eastern Asia,2013
-114,Macedonia,1.4,30,Europe,Southern Europe,2011
-115,Madagascar,11.1,2465,Africa,Eastern Africa,2012
-116,Malawi,1.8,279,Africa,Eastern Africa,2012
-117,Malaysia,2.3,652,Asia,South-Eastern Asia,2012
-118,Maldives,3.9,13,Asia,Southern Asia,2012
-119,Mali,7.5,1119,Africa,Western Africa,2012
-120,Malta,2.8,12,Europe,Southern Europe,2012
-121,Martinique (France),2.7,11,Americas,Caribbean ,2009
-122,Mauritania,5,191,Africa,Western Africa,2012
-123,Mauritius,2.8,34,Africa,Eastern Africa,2011
-124,Mayotte (France),6,12,Africa,Eastern Africa,2009
-125,Mexico,21.5,2637,Americas,Central America,2012
-126,Micronesia,4.6,5,Oceania,Micronesia ,2012
-127,Moldova,5,169,Europe,Eastern Europe,2013
-128,Monaco,0,0,Europe,Western Europe,2008
-129,Mongolia,9.7,266,Asia,Eastern Asia,2011
-130,Montenegro,2.7,17,Europe,Southern Europe,2012
-131,Montserrat (UK),20.4,1,Americas,Caribbean ,2008
-132,Morocco,2.2,704,Africa,Northern Africa,2012
-133,Mozambique,12.4,3133,Africa,Eastern Africa,2012
-134,Myanmar,15.2,844,Asia,South-Eastern Asia,2012
-135,Namibia,17.2,388,Africa,Southern Africa,2012
-136,Nauru,1.3,,Oceania,Micronesia ,2012
-137,Nepal,2.9,786,Asia,Southern Asia,2011
-138,Netherlands,0.9,145,Europe,Western Europe,2012
-139,New Caledonia (France),3.3,8,Oceania,Melanesia ,2009
-140,New Zealand,0.9,41,Oceania,Australasia ,2012
-141,Nicaragua,11.3,675,Americas,Central America,2012
-142,Niger,4.7,803,Africa,Western Africa,2012
-143,Nigeria,20,33817,Africa,Western Africa,2012
-144,Niue,3.6,,Oceania,Polynesia ,2012
-145,North Korea,5.2,1293,Asia,Eastern Asia,2012
-146,Norway,2.2,111,Europe,Northern Europe,2011
-147,Oman,1.1,34,Asia,Western Asia,2011
-148,Pakistan,7.7,13846,Asia,Southern Asia,2012
-149,Palau,3.1,,Oceania,Micronesia ,2012
-150,Palestine,7.4,312,Asia,Western Asia,2012
-151,Panama,17.2,654,Americas,Central America,2012
-152,Papua New Guinea,10.4,713,Oceania,Melanesia ,2010
-153,Paraguay,9.7,649,Americas,South America,2012
-154,Peru,9.6,2865,Americas,South America,2012
-155,Philippines,8.8,8484,Asia,South-Eastern Asia,2012
-156,Poland,0.8,298,Europe,Eastern Europe,2013
-157,Portugal,1.2,122,Europe,Southern Europe,2012
-158,Puerto Rico (US),26.5,978,Americas,Caribbean ,2012
-159,Qatar,1.1,23,Asia,Western Asia,2012
-160,Romania,1.5,336,Europe,Eastern Europe,2013
-161,Russia,9,12785,Europe,Eastern Europe,2013
-162,Rwanda,23.1,2648,Africa,Eastern Africa,2012
-163,Réunion (France),1.8,15,Africa,Eastern Africa,2009
-164,Saint Kitts and Nevis,33.6,18,Americas,Caribbean ,2012
-165,Saint Lucia,21.6,39,Americas,Caribbean ,2012
-166,Saint Pierre and Miquelon (France),16.5,1,Americas,Northern America,2009
-167,Saint Vincent and the Grenadines,25.6,28,Americas,Caribbean ,2012
-168,Samoa,3.6,7,Oceania,Polynesia ,2012
-169,San Marino,0.7,,Europe,Southern Europe,2012
-170,Sao Tome and Principe,3.3,6,Africa,Middle Africa,2011
-171,Saudi Arabia,0.8,234,Asia,Western Asia,2012
-172,Senegal,2.8,379,Africa,Western Africa,2012
-173,Serbia,1.2,111,Europe,Southern Europe,2012
-174,Seychelles,9.5,9,Africa,Eastern Africa,2012
-175,Sierra Leone,1.9,113,Africa,Western Africa,2012
-176,Singapore,0.2,11,Asia,South-Eastern Asia,2012
-177,Slovakia,1.4,78,Europe,Eastern Europe,2013
-178,Slovenia,0.7,14,Europe,Southern Europe,2012
-179,Solomon Islands,4.3,24,Oceania,Melanesia ,2012
-180,Somalia,8,819,Africa,Eastern Africa,2012
-181,South Africa,31,16259,Africa,Southern Africa,2012
-182,South Korea,0.9,427,Asia,Eastern Asia,2011
-183,South Sudan,13.9,1504,Africa,Eastern Africa,2012
-184,Spain,0.8,364,Europe,Southern Europe,2012
-185,Sri Lanka,3.4,707,Asia,Southern Asia,2011
-186,Sudan,11.2,4159,Africa,Northern Africa,2012
-187,Suriname,6.1,33,Americas,South America,2012
-188,Swaziland,33.8,416,Africa,Southern Africa,2012
-189,Sweden,0.7,68,Europe,Northern Europe,2012
-190,Switzerland,0.6,46,Europe,Western Europe,2011
-191,Syria,2.2,463,Asia,Western Asia,2010
-192,Taiwan,3,686,Asia,Eastern Asia,2011
-193,Tajikistan,1.6,126,Asia,Central Asia,2011
-194,Tanzania,12.7,6071,Africa,Eastern Africa,2012
-195,Thailand,5,3307,Asia,South-Eastern Asia,2011
-196,Timor-Leste,3.6,39,Asia,South-Eastern Asia,2010
-197,Togo,10.3,684,Africa,Western Africa,2012
-198,Tonga,1,1,Oceania,Polynesia ,2012
-199,Trinidad and Tobago,28.3,379,Americas,Caribbean ,2012
-200,Tunisia,2.2,235,Africa,Northern Africa,2012
-201,Turkey,2.6,1886,Asia,Western Asia,2011
-202,Turkmenistan,12.8,660,Asia,Central Asia,2012
-203,Turks and Caicos Islands (UK),6.6,2,Americas,Caribbean ,2009
-204,Tuvalu,4.2,,Oceania,Polynesia ,2012
-205,Uganda,10.7,3753,Africa,Eastern Africa,2011
-206,Ukraine,4.3,1988,Europe,Eastern Europe,2010
-207,United Arab Emirates,2.6,235,Asia,Western Asia,2012
-208,United Kingdom,1,653,Europe,Northern Europe,2011
-209,United States,3.8,122535,Americas,Northern America,2013
-210,United States Virgin Islands (US),52.6,56,Americas,Caribbean ,2010
-211,Uruguay,7.9,267,Americas,South America,2012
-212,Uzbekistan,3.7,1060,Asia,Central Asia,2012
-213,Vanuatu,2.9,7,Oceania,Melanesia ,2012
-214,Venezuela,53.7,16072,Americas,South America,2012
-215,Vietnam,3.3,3037,Asia,South-Eastern Asia,2012
-216,Yemen,4.8,1099,Asia,Western Asia,2010
-217,Zambia,10.7,1501,Africa,Eastern Africa,2012
-218,Zimbabwe,10.6,1450,Africa,Eastern Africa,2012
+country,homicide rate (per 100 000)
+Afghanistan,6.5
+Albania,5
+Algeria,0.7
+Andorra,1.3
+Angola,10
+Anguilla (UK),7.5
+Antigua and Barbuda,11.2
+Argentina,5.5
+Armenia,1.8
+Aruba (Netherlands),3.9
+Australia,1.1
+Austria,0.9
+Azerbaijan,2.1
+Bahamas,29.8
+Bahrain,0.5
+Bangladesh,2.7
+Barbados,7.4
+Belarus,3.6
+Belgium,1.6
+Belize,44.7
+Benin,8.4
+Bermuda (UK),7.7
+Bhutan,1.7
+Bolivia,12.1
+Bosnia and Herzegovina,1.3
+Botswana,18.4
+Brazil,25.2
+British Virgin Islands (UK),8.4
+Brunei,2
+Bulgaria,1.5
+Burkina Faso,8
+Burundi,8
+Cambodia,6.5
+Cameroon,7.6
+Canada,1.4
+Cape Verde,10.3
+Cayman Islands (UK),14.7
+Central African Republic,11.8
+Chad,7.3
+Chile,3.1
+China,1
+Colombia,30.8
+Comoros,10
+Congo,12.5
+Cook Islands,3.1
+Costa Rica,8.5
+Croatia,1.2
+Cuba,4.2
+Cyprus,2
+Czech Republic,0.9
+Democratic Republic of the Congo,28.3
+Denmark,0.8
+Djibouti,10.1
+Dominica,21.1
+Dominican Republic,22.1
+Ecuador,12.4
+Egypt,3.4
+El Salvador,41.2
+Equatorial Guinea,19.3
+Eritrea,7.1
+Estonia,5
+Ethiopia,12
+Fiji,4
+Finland,1.6
+France,1
+French Guiana (France),13.3
+French Polynesia (France),0.4
+Gabon,9.1
+Gambia,10.2
+Georgia,4.3
+Germany,0.8
+Ghana,6.1
+Greece,1.7
+Greenland (Denmark),19.4
+Grenada,13.3
+Guadeloupe (France),7.9
+Guam (US),2.5
+Guatemala,39.9
+Guinea,8.9
+Guinea-Bissau,8.4
+Guyana,17
+Haiti,10.2
+Honduras,90.4
+Hong Kong,0.9
+Hungary,2.7
+Iceland,0.3
+India,3.5
+Indonesia,0.6
+Iran,3.9
+Iraq,8
+Ireland,1.2
+Israel,1.8
+Italy,0.9
+Ivory Coast,13.6
+Jamaica,39.3
+Japan,0.3
+Jordan,2
+Kazakhstan,7.8
+Kenya,6.4
+Kiribati,8.2
+Kosovo,3.6
+Kuwait,0.4
+Kyrgyzstan,9.1
+Laos,5.9
+Latvia,4.7
+Lebanon,2.2
+Lesotho,38
+Liberia,3.2
+Libya,1.7
+Liechtenstein,0
+Lithuania,6.7
+Luxembourg,0.8
+Macao,1.4
+Macedonia,1.4
+Madagascar,11.1
+Malawi,1.8
+Malaysia,2.3
+Maldives,3.9
+Mali,7.5
+Malta,2.8
+Martinique (France),2.7
+Mauritania,5
+Mauritius,2.8
+Mayotte (France),6
+Mexico,21.5
+Micronesia,4.6
+Moldova,5
+Monaco,0
+Mongolia,9.7
+Montenegro,2.7
+Montserrat (UK),20.4
+Morocco,2.2
+Mozambique,12.4
+Myanmar,15.2
+Namibia,17.2
+Nauru,1.3
+Nepal,2.9
+Netherlands,0.9
+New Caledonia (France),3.3
+New Zealand,0.9
+Nicaragua,11.3
+Niger,4.7
+Nigeria,20
+Niue,3.6
+North Korea,5.2
+Norway,2.2
+Oman,1.1
+Pakistan,7.7
+Palau,3.1
+Palestine,7.4
+Panama,17.2
+Papua New Guinea,10.4
+Paraguay,9.7
+Peru,9.6
+Philippines,8.8
+Poland,0.8
+Portugal,1.2
+Puerto Rico (US),26.5
+Qatar,1.1
+Romania,1.5
+Russia,9
+Rwanda,23.1
+Réunion (France),1.8
+Saint Kitts and Nevis,33.6
+Saint Lucia,21.6
+Saint Pierre and Miquelon (France),16.5
+Saint Vincent and the Grenadines,25.6
+Samoa,3.6
+San Marino,0.7
+Sao Tome and Principe,3.3
+Saudi Arabia,0.8
+Senegal,2.8
+Serbia,1.2
+Seychelles,9.5
+Sierra Leone,1.9
+Singapore,0.2
+Slovakia,1.4
+Slovenia,0.7
+Solomon Islands,4.3
+Somalia,8
+South Africa,31
+South Korea,0.9
+South Sudan,13.9
+Spain,0.8
+Sri Lanka,3.4
+Sudan,11.2
+Suriname,6.1
+Swaziland,33.8
+Sweden,0.7
+Switzerland,0.6
+Syria,2.2
+Taiwan,3
+Tajikistan,1.6
+Tanzania,12.7
+Thailand,5
+Timor-Leste,3.6
+Togo,10.3
+Tonga,1
+Trinidad and Tobago,28.3
+Tunisia,2.2
+Turkey,2.6
+Turkmenistan,12.8
+Turks and Caicos Islands (UK),6.6
+Tuvalu,4.2
+Uganda,10.7
+Ukraine,4.3
+United Arab Emirates,2.6
+United Kingdom,1
+United States,3.8
+United States Virgin Islands (US),52.6
+Uruguay,7.9
+Uzbekistan,3.7
+Vanuatu,2.9
+Venezuela,53.7
+Vietnam,3.3
+Yemen,4.8
+Zambia,10.7
+Zimbabwe,10.6
