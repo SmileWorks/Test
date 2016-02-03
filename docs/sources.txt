@@ -3,3 +3,5 @@ http://www.unodc.org/documents/gsh/pdfs/2014_GLOBAL_HOMICIDE_BOOK_web.pdf Intent
 http://hdr.undp.org/sites/default/files/2015_human_development_report.pdf HDI and others
 
 http://www.smallarmssurvey.org/fileadmin/docs/A-Yearbook/2007/en/Small-Arms-Survey-2007-Chapter-02-annexe-4-EN.pdf gun ownership rate per 100
+
+https://data.unodc.org/#state:2 homicide by firearm rate
