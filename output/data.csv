@@ -1,0 +1,165 @@
+"country","gunOwnershipRate","homicideRate","grossNationalIncomePerCapita"
+"Afghanistan",4.6,6.5,1885
+"Albania",8.6,5,9943
+"Algeria",7.6,0.7,13054
+"Angola",17.3,10,6822
+"Argentina",10.2,5.5,22050
+"Armenia",12.5,1.8,8124
+"Australia",21.7,1.1,42261
+"Austria",30.4,0.9,43869
+"Azerbaijan",3.5,2.1,16428
+"Bahamas",5.3,29.8,21336
+"Bahrain",24.8,0.5,38599
+"Bangladesh",0.5,2.7,3191
+"Barbados",7.8,7.4,12488
+"Belarus",7.3,3.6,16676
+"Belgium",17.2,1.6,41187
+"Belize",10,44.7,7614
+"Benin",1.4,8.4,1767
+"Bhutan",3.5,1.7,7176
+"Bolivia",2.8,12.1,5760
+"Botswana",4.9,18.4,16646
+"Brazil",8,25.2,15175
+"Brunei",1.4,2,72570
+"Bulgaria",6.2,1.5,15596
+"Burkina Faso",1.1,8,1591
+"Burundi",1.2,8,758
+"Cambodia",4.3,6.5,2949
+"Cameroon",2.8,7.6,2803
+"Canada",30.8,1.4,42155
+"Central African Republic",1,11.8,581
+"Chad",1.1,7.3,2085
+"Chile",10.7,3.1,21290
+"China",4.9,1,12547
+"Colombia",5.9,30.8,12040
+"Comoros",1.8,10,1456
+"Congo",2.7,12.5,680
+"Congo",2.7,12.5,6012
+"Costa Rica",9.9,8.5,13413
+"Croatia",21.7,1.2,19409
+"Cuba",4.8,4.2,7301
+"Cyprus",36.1,2,28633
+"Czech Republic",16.3,0.9,26660
+"Denmark",12,0.8,44025
+"Djibouti",2.8,10.1,3276
+"Dominican Republic",5.1,22.1,11883
+"Ecuador",1.3,12.4,10605
+"Egypt",3.5,3.4,10512
+"El Salvador",5.8,41.2,7349
+"Equatorial Guinea",19.9,19.3,21056
+"Eritrea",0.5,7.1,1130
+"Estonia",9.2,5,25214
+"Ethiopia",0.4,12,1428
+"Fiji",0.5,4,7493
+"Finland",29.1,1.6,38695
+"France",31.2,1,38056
+"Gabon",14,9.1,16367
+"Gambia",0.8,10.2,1507
+"Georgia",7.3,4.3,7164
+"Germany",30.3,0.8,43919
+"Ghana",0.4,6.1,3852
+"Greece",22.5,1.7,24524
+"Guatemala",13.1,39.9,6929
+"Guinea",1.2,8.9,1096
+"Guinea-Bissau",1.6,8.4,1362
+"Guyana",14.6,17,6522
+"Haiti",0.6,10.2,1669
+"Honduras",6.2,90.4,3938
+"Hungary",5.5,2.7,22916
+"Iceland",30.3,0.3,35182
+"India",4.2,3.5,5497
+"Indonesia",0.5,0.6,9788
+"Iran",7.3,3.9,15440
+"Iraq",34.2,8,14003
+"Ireland",4.3,1.2,39568
+"Israel",7.3,1.8,30676
+"Italy",11.9,0.9,33030
+"Jamaica",8.1,39.3,7415
+"Japan",0.6,0.3,36927
+"Jordan",11.5,2,11365
+"Kazakhstan",1.3,7.8,20867
+"Kenya",6.4,6.4,2762
+"Kuwait",24.8,0.4,83961
+"Kyrgyzstan",0.9,9.1,3044
+"Latvia",19,4.7,22281
+"Lebanon",21,2.2,16509
+"Lesotho",2.7,38,3306
+"Liberia",1.6,3.2,805
+"Libya",15.5,1.7,14911
+"Lithuania",0.7,6.7,24500
+"Luxembourg",15.3,0.8,58711
+"Macedonia",24.1,1.4,11780
+"Madagascar",0.8,11.1,1328
+"Malawi",0.7,1.8,747
+"Malaysia",1.5,2.3,22762
+"Maldives",6.5,3.9,12328
+"Mali",1.1,7.5,1583
+"Malta",11.9,2.8,27930
+"Mauritania",1.6,5,3560
+"Mauritius",14.7,2.8,17470
+"Mexico",15,21.5,16056
+"Moldova",7.1,5,5223
+"Mongolia",1.9,9.7,10729
+"Montenegro",23.1,2.7,14558
+"Morocco",5,2.2,6850
+"Mozambique",5.1,12.4,1123
+"Namibia",12.6,17.2,9418
+"Nepal",0.8,2.9,2311
+"Netherlands",3.9,0.9,45435
+"New Zealand",22.6,0.9,32689
+"Nicaragua",7.7,11.3,4457
+"Niger",0.7,4.7,908
+"Nigeria",1.5,20,5341
+"Norway",31.3,2.2,64992
+"Oman",25.5,1.1,34858
+"Pakistan",11.6,7.7,4866
+"Palestine",3.4,7.4,4699
+"Panama",21.7,17.2,18192
+"Papua New Guinea",1.2,10.4,2463
+"Paraguay",17,9.7,7643
+"Peru",18.8,9.6,11015
+"Philippines",4.7,8.8,7915
+"Poland",1.3,0.8,23177
+"Portugal",8.5,1.2,25757
+"Qatar",19.2,1.1,123124
+"Romania",0.7,1.5,18108
+"Russia",8.9,9,22352
+"Rwanda",0.6,23.1,1458
+"Saudi Arabia",35,0.8,52821
+"Senegal",2,2.8,2188
+"Serbia",69.7,1.2,12190
+"Seychelles",5.4,9.5,23300
+"Sierra Leone",0.6,1.9,1780
+"Singapore",0.5,0.2,76628
+"Slovakia",8.3,1.4,25845
+"Slovenia",13.5,0.7,27852
+"Solomon Islands",0.4,4.3,1540
+"South Africa",12.7,31,12122
+"Spain",10.4,0.8,32045
+"Sri Lanka",1.5,3.4,9779
+"Sudan",5.5,11.2,3809
+"Suriname",13.4,6.1,15617
+"Swaziland",6.4,33.8,5542
+"Sweden",31.6,0.7,45636
+"Switzerland",45.7,0.6,56431
+"Syria",3.9,2.2,2728
+"Tajikistan",1,1.6,2517
+"Tanzania",1.4,12.7,2411
+"Thailand",15.6,5,13323
+"Timor-Leste",0.3,3.6,5363
+"Togo",1,10.3,1228
+"Trinidad and Tobago",1.6,28.3,26090
+"Tunisia",0.1,2.2,10404
+"Turkey",12.5,2.6,18677
+"Turkmenistan",3.8,12.8,13066
+"Uganda",1.4,10.7,1613
+"Ukraine",6.6,4.3,8178
+"United Arab Emirates",22.1,2.6,60868
+"United Kingdom",6.6,1,39267
+"United States",112.6,3.8,52947
+"Uruguay",31.8,7.9,19283
+"Uzbekistan",1.5,3.7,5567
+"Venezuela",10.7,53.7,16159
+"Yemen",54.8,4.8,3519
+"Zambia",8.9,10.7,3734
+"Zimbabwe",4.6,10.6,1615
