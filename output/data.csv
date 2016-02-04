@@ -1,165 +1,191 @@
-"country","gunOwnershipRate","homicideRate","grossNationalIncomePerCapita"
-"Afghanistan",4.6,6.5,1885
-"Albania",8.6,5,9943
-"Algeria",7.6,0.7,13054
-"Angola",17.3,10,6822
-"Argentina",10.2,5.5,22050
-"Armenia",12.5,1.8,8124
-"Australia",21.7,1.1,42261
-"Austria",30.4,0.9,43869
-"Azerbaijan",3.5,2.1,16428
-"Bahamas",5.3,29.8,21336
-"Bahrain",24.8,0.5,38599
-"Bangladesh",0.5,2.7,3191
-"Barbados",7.8,7.4,12488
-"Belarus",7.3,3.6,16676
-"Belgium",17.2,1.6,41187
-"Belize",10,44.7,7614
-"Benin",1.4,8.4,1767
-"Bhutan",3.5,1.7,7176
-"Bolivia",2.8,12.1,5760
-"Botswana",4.9,18.4,16646
-"Brazil",8,25.2,15175
-"Brunei",1.4,2,72570
-"Bulgaria",6.2,1.5,15596
-"Burkina Faso",1.1,8,1591
-"Burundi",1.2,8,758
-"Cambodia",4.3,6.5,2949
-"Cameroon",2.8,7.6,2803
-"Canada",30.8,1.4,42155
-"Central African Republic",1,11.8,581
-"Chad",1.1,7.3,2085
-"Chile",10.7,3.1,21290
-"China",4.9,1,12547
-"Colombia",5.9,30.8,12040
-"Comoros",1.8,10,1456
-"Congo",2.7,12.5,680
-"Congo",2.7,12.5,6012
-"Costa Rica",9.9,8.5,13413
-"Croatia",21.7,1.2,19409
-"Cuba",4.8,4.2,7301
-"Cyprus",36.1,2,28633
-"Czech Republic",16.3,0.9,26660
-"Denmark",12,0.8,44025
-"Djibouti",2.8,10.1,3276
-"Dominican Republic",5.1,22.1,11883
-"Ecuador",1.3,12.4,10605
-"Egypt",3.5,3.4,10512
-"El Salvador",5.8,41.2,7349
-"Equatorial Guinea",19.9,19.3,21056
-"Eritrea",0.5,7.1,1130
-"Estonia",9.2,5,25214
-"Ethiopia",0.4,12,1428
-"Fiji",0.5,4,7493
-"Finland",29.1,1.6,38695
-"France",31.2,1,38056
-"Gabon",14,9.1,16367
-"Gambia",0.8,10.2,1507
-"Georgia",7.3,4.3,7164
-"Germany",30.3,0.8,43919
-"Ghana",0.4,6.1,3852
-"Greece",22.5,1.7,24524
-"Guatemala",13.1,39.9,6929
-"Guinea",1.2,8.9,1096
-"Guinea-Bissau",1.6,8.4,1362
-"Guyana",14.6,17,6522
-"Haiti",0.6,10.2,1669
-"Honduras",6.2,90.4,3938
-"Hungary",5.5,2.7,22916
-"Iceland",30.3,0.3,35182
-"India",4.2,3.5,5497
-"Indonesia",0.5,0.6,9788
-"Iran",7.3,3.9,15440
-"Iraq",34.2,8,14003
-"Ireland",4.3,1.2,39568
-"Israel",7.3,1.8,30676
-"Italy",11.9,0.9,33030
-"Jamaica",8.1,39.3,7415
-"Japan",0.6,0.3,36927
-"Jordan",11.5,2,11365
-"Kazakhstan",1.3,7.8,20867
-"Kenya",6.4,6.4,2762
-"Kuwait",24.8,0.4,83961
-"Kyrgyzstan",0.9,9.1,3044
-"Latvia",19,4.7,22281
-"Lebanon",21,2.2,16509
-"Lesotho",2.7,38,3306
-"Liberia",1.6,3.2,805
-"Libya",15.5,1.7,14911
-"Lithuania",0.7,6.7,24500
-"Luxembourg",15.3,0.8,58711
-"Macedonia",24.1,1.4,11780
-"Madagascar",0.8,11.1,1328
-"Malawi",0.7,1.8,747
-"Malaysia",1.5,2.3,22762
-"Maldives",6.5,3.9,12328
-"Mali",1.1,7.5,1583
-"Malta",11.9,2.8,27930
-"Mauritania",1.6,5,3560
-"Mauritius",14.7,2.8,17470
-"Mexico",15,21.5,16056
-"Moldova",7.1,5,5223
-"Mongolia",1.9,9.7,10729
-"Montenegro",23.1,2.7,14558
-"Morocco",5,2.2,6850
-"Mozambique",5.1,12.4,1123
-"Namibia",12.6,17.2,9418
-"Nepal",0.8,2.9,2311
-"Netherlands",3.9,0.9,45435
-"New Zealand",22.6,0.9,32689
-"Nicaragua",7.7,11.3,4457
-"Niger",0.7,4.7,908
-"Nigeria",1.5,20,5341
-"Norway",31.3,2.2,64992
-"Oman",25.5,1.1,34858
-"Pakistan",11.6,7.7,4866
-"Palestine",3.4,7.4,4699
-"Panama",21.7,17.2,18192
-"Papua New Guinea",1.2,10.4,2463
-"Paraguay",17,9.7,7643
-"Peru",18.8,9.6,11015
-"Philippines",4.7,8.8,7915
-"Poland",1.3,0.8,23177
-"Portugal",8.5,1.2,25757
-"Qatar",19.2,1.1,123124
-"Romania",0.7,1.5,18108
-"Russia",8.9,9,22352
-"Rwanda",0.6,23.1,1458
-"Saudi Arabia",35,0.8,52821
-"Senegal",2,2.8,2188
-"Serbia",69.7,1.2,12190
-"Seychelles",5.4,9.5,23300
-"Sierra Leone",0.6,1.9,1780
-"Singapore",0.5,0.2,76628
-"Slovakia",8.3,1.4,25845
-"Slovenia",13.5,0.7,27852
-"Solomon Islands",0.4,4.3,1540
-"South Africa",12.7,31,12122
-"Spain",10.4,0.8,32045
-"Sri Lanka",1.5,3.4,9779
-"Sudan",5.5,11.2,3809
-"Suriname",13.4,6.1,15617
-"Swaziland",6.4,33.8,5542
-"Sweden",31.6,0.7,45636
-"Switzerland",45.7,0.6,56431
-"Syria",3.9,2.2,2728
-"Tajikistan",1,1.6,2517
-"Tanzania",1.4,12.7,2411
-"Thailand",15.6,5,13323
-"Timor-Leste",0.3,3.6,5363
-"Togo",1,10.3,1228
-"Trinidad and Tobago",1.6,28.3,26090
-"Tunisia",0.1,2.2,10404
-"Turkey",12.5,2.6,18677
-"Turkmenistan",3.8,12.8,13066
-"Uganda",1.4,10.7,1613
-"Ukraine",6.6,4.3,8178
-"United Arab Emirates",22.1,2.6,60868
-"United Kingdom",6.6,1,39267
-"United States",112.6,3.8,52947
-"Uruguay",31.8,7.9,19283
-"Uzbekistan",1.5,3.7,5567
-"Venezuela",10.7,53.7,16159
-"Yemen",54.8,4.8,3519
-"Zambia",8.9,10.7,3734
-"Zimbabwe",4.6,10.6,1615
+"country","gunOwnershipRate","homicideRate","grossNationalIncomePerCapita","HDIRank","HDIValue","homicideByFirearmRate","lifeExpectancyAtBirth","meanYearsOfSchooling","region","subregion"
+"Albania",8.6,5,9943,85,0.733,1.76,77.8,9.3,"Europe","Southern Europe"
+"Algeria",7.6,0.7,13054,83,0.736,0.06,74.8,7.6,"Africa","Northern Africa"
+"Angola",17.3,10,6822,149,0.532,NA,52.3,4.7,"Africa","Middle Africa"
+"Argentina",10.2,5.5,22050,40,0.836,3.02,76.3,9.8,"Americas","South America"
+"Armenia",12.5,1.8,8124,85,0.733,0.29,74.7,10.9,"Asia","Western Asia"
+"Australia",21.7,1.1,42261,2,0.935,0.14,82.4,13,"Oceania","Australasia "
+"Austria",30.4,0.9,43869,23,0.885,0.22,81.4,10.8,"Europe","Western Europe"
+"Azerbaijan",3.5,2.1,16428,78,0.751,0.12,70.8,11.2,"Asia","Western Asia"
+"Bahamas",5.3,29.8,21336,55,0.79,15.37,75.4,10.9,"Americas","Caribbean "
+"Bahrain",24.8,0.5,38599,45,0.824,0,76.6,9.4,"Asia","Western Asia"
+"Bangladesh",0.5,2.7,3191,142,0.57,1.12,71.6,5.1,"Asia","Southern Asia"
+"Barbados",7.8,7.4,12488,57,0.785,2.99,75.6,10.5,"Americas","Caribbean "
+"Belarus",7.3,3.6,16676,50,0.798,0.12,71.3,12,"Europe","Eastern Europe"
+"Belgium",17.2,1.6,41187,21,0.89,0.68,80.8,11.3,"Europe","Western Europe"
+"Belize",10,44.7,7614,101,0.715,21.82,70,10.5,"Americas","Central America"
+"Benin",1.4,8.4,1767,166,0.48,NA,59.6,3.3,"Africa","Western Africa"
+"Bhutan",3.5,1.7,7176,132,0.605,NA,69.5,3,"Asia","Southern Asia"
+"Bolivia",2.8,12.1,5760,119,0.662,NA,68.3,8.2,"Americas","South America"
+"Botswana",4.9,18.4,16646,106,0.698,NA,64.5,8.9,"Africa","Southern Africa"
+"Brazil",8,25.2,15175,75,0.755,18.1,74.5,7.7,"Americas","South America"
+"Brunei",1.4,2,72570,31,0.856,0,78.8,8.8,"Asia","South-Eastern Asia"
+"Bulgaria",6.2,1.5,15596,59,0.782,0.67,74.2,10.6,"Europe","Eastern Europe"
+"Burkina Faso",1.1,8,1591,183,0.402,NA,58.7,1.4,"Africa","Western Africa"
+"Burundi",1.2,8,758,184,0.4,NA,56.7,2.7,"Africa","Eastern Africa"
+"Cambodia",4.3,6.5,2949,143,0.555,1.44,68.4,4.4,"Asia","South-Eastern Asia"
+"Cameroon",2.8,7.6,2803,153,0.512,NA,55.5,6,"Africa","Middle Africa"
+"Canada",30.8,1.4,42155,9,0.913,0.51,82,13,"Americas","Northern America"
+"Central African Republic",1,11.8,581,187,0.35,NA,50.7,4.2,"Africa","Middle Africa"
+"Chad",1.1,7.3,2085,185,0.392,NA,51.6,1.9,"Africa","Middle Africa"
+"Chile",10.7,3.1,21290,42,0.832,2.16,81.7,9.8,"Americas","South America"
+"China",4.9,1,12547,90,0.727,NA,75.8,7.5,"Asia","Eastern Asia"
+"Colombia",5.9,30.8,12040,97,0.72,27.09,74,7.3,"Americas","South America"
+"Comoros",1.8,10,1456,159,0.503,NA,63.3,4.6,"Africa","Eastern Africa"
+"Congo",2.7,12.5,680,176,0.591,NA,62.3,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,176,0.591,NA,62.3,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,176,0.591,NA,58.7,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,176,0.591,NA,58.7,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,136,0.591,NA,62.3,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,136,0.591,NA,62.3,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,136,0.591,NA,58.7,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,136,0.591,NA,58.7,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,176,0.591,NA,62.3,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,176,0.591,NA,62.3,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,176,0.591,NA,58.7,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,176,0.591,NA,58.7,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,136,0.433,NA,62.3,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,136,0.433,NA,62.3,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,136,0.433,NA,58.7,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,136,0.433,NA,58.7,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,136,0.591,NA,62.3,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,136,0.591,NA,62.3,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,136,0.591,NA,58.7,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,136,0.591,NA,58.7,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,176,0.433,NA,62.3,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,176,0.433,NA,62.3,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,176,0.433,NA,58.7,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,176,0.433,NA,58.7,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,176,0.433,NA,62.3,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,176,0.433,NA,62.3,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,176,0.433,NA,58.7,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,680,176,0.433,NA,58.7,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,136,0.433,NA,62.3,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,136,0.433,NA,62.3,6,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,136,0.433,NA,58.7,6.1,"Africa","Middle Africa"
+"Congo",2.7,12.5,6012,136,0.433,NA,58.7,6,"Africa","Middle Africa"
+"Costa Rica",9.9,8.5,13413,69,0.766,4.59,79.4,8.4,"Americas","Central America"
+"Croatia",21.7,1.2,19409,47,0.818,0.39,77.3,11,"Europe","Southern Europe"
+"Cuba",4.8,4.2,7301,67,0.769,0.24,79.4,11.5,"Americas","Caribbean "
+"Cyprus",36.1,2,28633,32,0.85,0.46,80.2,11.6,"Asia","Western Asia"
+"Czech Republic",16.3,0.9,26660,28,0.87,0.19,78.6,12.3,"Europe","Eastern Europe"
+"Denmark",12,0.8,44025,4,0.923,0.27,80.2,12.7,"Europe","Northern Europe"
+"Djibouti",2.8,10.1,3276,168,0.47,NA,62,3.8,"Africa","Eastern Africa"
+"Dominican Republic",5.1,22.1,11883,101,0.715,16.3,73.5,7.6,"Americas","Caribbean "
+"Ecuador",1.3,12.4,10605,88,0.732,12.73,75.9,7.6,"Americas","South America"
+"Egypt",3.5,3.4,10512,108,0.69,0.57,71.1,6.6,"Africa","Northern Africa"
+"El Salvador",5.8,41.2,7349,116,0.666,39.9,73,6.5,"Americas","Central America"
+"Equatorial Guinea",19.9,19.3,21056,138,0.587,NA,57.6,5.5,"Africa","Middle Africa"
+"Eritrea",0.5,7.1,1130,186,0.391,NA,63.7,3.9,"Africa","Eastern Africa"
+"Estonia",9.2,5,25214,30,0.861,0.24,76.8,12.5,"Europe","Northern Europe"
+"Ethiopia",0.4,12,1428,174,0.442,NA,64.1,2.4,"Africa","Eastern Africa"
+"Fiji",0.5,4,7493,90,0.727,NA,70,9.9,"Oceania","Melanesia "
+"Finland",29.1,1.6,38695,24,0.883,0.45,80.8,10.3,"Europe","Northern Europe"
+"France",31.2,1,38056,22,0.888,0.06,82.2,11.1,"Europe","Western Europe"
+"Gabon",14,9.1,16367,110,0.684,NA,64.4,7.8,"Africa","Middle Africa"
+"Gambia",0.8,10.2,1507,175,0.441,NA,60.2,2.8,"Africa","Western Africa"
+"Georgia",7.3,4.3,7164,76,0.754,0.55,74.9,12.1,"Asia","Western Asia"
+"Germany",30.3,0.8,43919,6,0.916,0.19,80.9,13.1,"Europe","Western Europe"
+"Ghana",0.4,6.1,3852,140,0.579,NA,61.4,7,"Africa","Western Africa"
+"Greece",22.5,1.7,24524,29,0.865,0.26,80.9,10.3,"Europe","Southern Europe"
+"Guatemala",13.1,39.9,6929,128,0.627,34.81,71.8,5.6,"Americas","Central America"
+"Guinea",1.2,8.9,1096,182,0.411,NA,58.8,2.4,"Africa","Western Africa"
+"Guinea-Bissau",1.6,8.4,1362,178,0.42,NA,55.2,2.8,"Africa","Western Africa"
+"Guyana",14.6,17,6522,124,0.636,11.46,66.4,8.5,"Americas","South America"
+"Haiti",0.6,10.2,1669,163,0.483,NA,62.8,4.9,"Americas","Caribbean "
+"Honduras",6.2,90.4,3938,131,0.606,68.43,73.1,5.5,"Americas","Central America"
+"Hungary",5.5,2.7,22916,44,0.828,0.07,75.2,11.6,"Europe","Eastern Europe"
+"Iceland",30.3,0.3,35182,16,0.899,0,82.6,10.6,"Europe","Northern Europe"
+"India",4.2,3.5,5497,130,0.609,0.26,68,5.4,"Asia","Southern Asia"
+"Indonesia",0.5,0.6,9788,110,0.684,NA,68.9,7.6,"Asia","South-Eastern Asia"
+"Iran",7.3,3.9,15440,69,0.766,NA,75.4,8.2,"Asia","Southern Asia"
+"Iraq",34.2,8,14003,121,0.654,NA,69.4,6.4,"Asia","Western Asia"
+"Ireland",4.3,1.2,39568,6,0.916,0.48,80.9,12.2,"Europe","Northern Europe"
+"Israel",7.3,1.8,30676,18,0.894,0.09,82.4,12.5,"Asia","Western Asia"
+"Italy",11.9,0.9,33030,27,0.873,0.71,83.1,10.1,"Europe","Southern Europe"
+"Jamaica",8.1,39.3,7415,99,0.719,39.4,75.7,9.7,"Americas","Caribbean "
+"Japan",0.6,0.3,36927,20,0.891,0.01,83.5,11.5,"Asia","Eastern Asia"
+"Jordan",11.5,2,11365,80,0.748,0.49,74,9.9,"Asia","Western Asia"
+"Kazakhstan",1.3,7.8,20867,56,0.788,1.34,69.4,11.4,"Asia","Central Asia"
+"Kenya",6.4,6.4,2762,145,0.548,NA,61.6,6.3,"Africa","Eastern Africa"
+"Kuwait",24.8,0.4,83961,48,0.816,NA,74.4,7.2,"Asia","Western Asia"
+"Kyrgyzstan",0.9,9.1,3044,120,0.655,0.54,70.6,10.6,"Asia","Central Asia"
+"Latvia",19,4.7,22281,46,0.819,0.22,74.2,11.5,"Europe","Northern Europe"
+"Lebanon",21,2.2,16509,67,0.769,0.76,79.3,7.9,"Asia","Western Asia"
+"Lesotho",2.7,38,3306,161,0.497,NA,49.8,5.9,"Africa","Southern Africa"
+"Liberia",1.6,3.2,805,177,0.43,0.43,60.9,4.1,"Africa","Western Africa"
+"Libya",15.5,1.7,14911,94,0.724,NA,71.6,7.3,"Africa","Northern Africa"
+"Lithuania",0.7,6.7,24500,37,0.839,0.18,73.3,12.4,"Europe","Northern Europe"
+"Luxembourg",15.3,0.8,58711,19,0.892,0.62,81.7,11.7,"Europe","Western Europe"
+"Macedonia",24.1,1.4,11780,81,0.747,1.21,75.4,9.3,"Europe","Southern Europe"
+"Madagascar",0.8,11.1,1328,154,0.51,NA,65.1,6,"Africa","Eastern Africa"
+"Malawi",0.7,1.8,747,173,0.445,NA,62.8,4.3,"Africa","Eastern Africa"
+"Malaysia",1.5,2.3,22762,62,0.779,0.24,74.7,10,"Asia","South-Eastern Asia"
+"Maldives",6.5,3.9,12328,104,0.706,1.63,76.8,5.8,"Asia","Southern Asia"
+"Mali",1.1,7.5,1583,179,0.419,NA,58,2,"Africa","Western Africa"
+"Malta",11.9,2.8,27930,37,0.839,0,80.6,10.3,"Europe","Southern Europe"
+"Mauritania",1.6,5,3560,156,0.506,NA,63.1,3.8,"Africa","Western Africa"
+"Mauritius",14.7,2.8,17470,63,0.777,0.1,74.4,8.5,"Africa","Eastern Africa"
+"Mexico",15,21.5,16056,74,0.756,9.97,76.8,8.5,"Americas","Central America"
+"Moldova",7.1,5,5223,107,0.693,0.22,71.6,11.2,"Europe","Eastern Europe"
+"Mongolia",1.9,9.7,10729,90,0.727,0.11,69.4,9.3,"Asia","Eastern Asia"
+"Montenegro",23.1,2.7,14558,49,0.802,NA,76.2,11.2,"Europe","Southern Europe"
+"Morocco",5,2.2,6850,126,0.628,NA,74,4.4,"Africa","Northern Africa"
+"Mozambique",5.1,12.4,1123,180,0.416,NA,55.1,3.2,"Africa","Eastern Africa"
+"Namibia",12.6,17.2,9418,126,0.628,NA,64.8,6.2,"Africa","Southern Africa"
+"Nepal",0.8,2.9,2311,145,0.548,0.3,69.6,3.3,"Asia","Southern Asia"
+"Netherlands",3.9,0.9,45435,5,0.922,0.33,81.6,11.9,"Europe","Western Europe"
+"New Zealand",22.6,0.9,32689,9,0.913,0.16,81.8,12.5,"Oceania","Australasia "
+"Nicaragua",7.7,11.3,4457,125,0.631,5.92,74.9,6,"Americas","Central America"
+"Niger",0.7,4.7,908,188,0.348,NA,61.4,1.5,"Africa","Western Africa"
+"Nigeria",1.5,20,5341,152,0.514,NA,52.8,5.9,"Africa","Western Africa"
+"Norway",31.3,2.2,64992,1,0.944,0.05,81.6,12.6,"Europe","Northern Europe"
+"Oman",25.5,1.1,34858,52,0.793,NA,76.8,8,"Asia","Western Asia"
+"Pakistan",11.6,7.7,4866,147,0.538,NA,66.2,4.7,"Asia","Southern Asia"
+"Panama",21.7,17.2,18192,60,0.78,16.18,77.6,9.3,"Americas","Central America"
+"Papua New Guinea",1.2,10.4,2463,158,0.505,NA,62.6,4,"Oceania","Melanesia "
+"Paraguay",17,9.7,7643,112,0.679,7.35,72.9,7.7,"Americas","South America"
+"Peru",18.8,9.6,11015,84,0.734,2.63,74.6,9,"Americas","South America"
+"Philippines",4.7,8.8,7915,115,0.668,8.93,68.2,8.9,"Asia","South-Eastern Asia"
+"Poland",1.3,0.8,23177,36,0.843,0.09,77.4,11.8,"Europe","Eastern Europe"
+"Portugal",8.5,1.2,25757,43,0.83,0.41,80.9,8.2,"Europe","Southern Europe"
+"Qatar",19.2,1.1,123124,32,0.85,0.14,78.2,9.1,"Asia","Western Asia"
+"Romania",0.7,1.5,18108,52,0.793,0.02,74.7,10.8,"Europe","Eastern Europe"
+"Russia",8.9,9,22352,50,0.798,NA,70.1,12,"Europe","Eastern Europe"
+"Rwanda",0.6,23.1,1458,163,0.483,NA,64.2,3.7,"Africa","Eastern Africa"
+"Saudi Arabia",35,0.8,52821,39,0.837,NA,74.3,8.7,"Asia","Western Asia"
+"Senegal",2,2.8,2188,170,0.466,NA,66.5,2.5,"Africa","Western Africa"
+"Serbia",69.7,1.2,12190,66,0.771,0.46,74.9,10.5,"Europe","Southern Europe"
+"Seychelles",5.4,9.5,23300,64,0.772,NA,73.1,9.4,"Africa","Eastern Africa"
+"Sierra Leone",0.6,1.9,1780,181,0.413,2.28,50.9,3.1,"Africa","Western Africa"
+"Singapore",0.5,0.2,76628,11,0.912,0.02,83,10.6,"Asia","South-Eastern Asia"
+"Slovakia",8.3,1.4,25845,35,0.844,0.18,76.3,12.2,"Europe","Eastern Europe"
+"Slovenia",13.5,0.7,27852,25,0.88,0.1,80.4,11.9,"Europe","Southern Europe"
+"Solomon Islands",0.4,4.3,1540,156,0.506,0,67.9,5,"Oceania","Melanesia "
+"South Africa",12.7,31,12122,116,0.666,17.03,57.4,9.9,"Africa","Southern Africa"
+"Spain",10.4,0.8,32045,26,0.876,0.2,82.6,9.6,"Europe","Southern Europe"
+"Sri Lanka",1.5,3.4,9779,73,0.757,1.48,74.9,10.8,"Asia","Southern Asia"
+"Sudan",5.5,11.2,3809,167,0.479,NA,63.5,3.1,"Africa","Northern Africa"
+"Suriname",13.4,6.1,15617,103,0.714,NA,71.1,7.7,"Americas","South America"
+"Swaziland",6.4,33.8,5542,150,0.531,NA,49,7.1,"Africa","Southern Africa"
+"Sweden",31.6,0.7,45636,14,0.907,0.41,82.2,12.1,"Europe","Northern Europe"
+"Switzerland",45.7,0.6,56431,3,0.93,0.77,83,12.8,"Europe","Western Europe"
+"Syria",3.9,2.2,2728,134,0.594,NA,69.6,6.3,"Asia","Western Asia"
+"Tajikistan",1,1.6,2517,129,0.624,0.22,69.4,10.4,"Asia","Central Asia"
+"Tanzania",1.4,12.7,2411,151,0.521,NA,65,5.1,"Africa","Eastern Africa"
+"Thailand",15.6,5,13323,93,0.726,NA,74.4,7.3,"Asia","South-Eastern Asia"
+"Togo",1,10.3,1228,162,0.484,NA,59.7,4.5,"Africa","Western Africa"
+"Trinidad and Tobago",1.6,28.3,26090,64,0.772,27.31,70.4,10.9,"Americas","Caribbean "
+"Tunisia",0.1,2.2,10404,96,0.721,NA,74.8,6.8,"Africa","Northern Africa"
+"Turkey",12.5,2.6,18677,72,0.761,0.77,75.3,7.6,"Asia","Western Asia"
+"Turkmenistan",3.8,12.8,13066,109,0.688,0.1,65.6,9.9,"Asia","Central Asia"
+"Uganda",1.4,10.7,1613,163,0.483,0.87,58.5,5.4,"Africa","Eastern Africa"
+"Ukraine",6.6,4.3,8178,81,0.747,0.22,71,11.3,"Europe","Eastern Europe"
+"United Arab Emirates",22.1,2.6,60868,41,0.835,NA,77,9.5,"Asia","Western Asia"
+"United States",112.6,3.8,52947,8,0.915,2.97,79.1,12.9,"Americas","Northern America"
+"Uruguay",31.8,7.9,19283,52,0.793,2.8,77.2,8.5,"Americas","South America"
+"Uzbekistan",1.5,3.7,5567,114,0.675,NA,68.4,10.9,"Asia","Central Asia"
+"Venezuela",10.7,53.7,16159,71,0.762,38.97,74.2,8.9,"Americas","South America"
+"Yemen",54.8,4.8,3519,160,0.498,NA,63.8,2.6,"Asia","Western Asia"
+"Zambia",8.9,10.7,3734,139,0.586,0.35,60.1,6.6,"Africa","Eastern Africa"
+"Zimbabwe",4.6,10.6,1615,155,0.509,4.78,57.5,7.3,"Africa","Eastern Africa"
