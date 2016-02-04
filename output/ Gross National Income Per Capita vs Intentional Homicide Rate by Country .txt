@@ -2,11 +2,11 @@
 	Pearson's product-moment correlation
 
 data:  x and y
-t = -4.4572, df = 188, p-value = 1.425e-05
+t = -3.7288, df = 157, p-value = 0.0002682
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
- -0.4324709 -0.1744750
+ -0.4221363 -0.1356028
 sample estimates:
-     cor 
--0.30915 
+       cor 
+-0.2852299 
 

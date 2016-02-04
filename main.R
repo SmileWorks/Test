@@ -17,7 +17,7 @@ subregion <- read.csv("data/subregion.csv")
 #violentCrime <- read.csv("data/violentCrime.csv")
 
 #merges data based on country
-data <- merge(GunOwnershipRate,HomicideRate,by=c("country"))
+data <- merge(gunOwnershipRate,homicideRate,by=c("country"))
 data <- merge(data, grossNationalIncomePerCapita, by=c("country"))
 data <- merge(data, HDIRank, by=c("country"))
 data <- merge(data, HDIValue, by=c("country"))
@@ -36,7 +36,7 @@ testAndPlotCorrelation <- function(x, y, title, xlabel, ylabel)
 {
   png(filename=paste("figs/",title,".png"), 
       units="in", width=10, height=8, pointsize=12, res=72)
-  plot(data$gunOwnershipRate, data$homicideRate, ann=F)
+  plot(x, y, ann=F)
   title(main=title, 
         xlab=xlabel,ylab=ylabel)
   abline(lm(y~x),col="red")
@@ -60,10 +60,6 @@ testAndPlotCorrelation(data$HDIRank, data$homicideRate,
                        "Human Development Index Rank", "Intentional Homicide Rate (per 100 000 people)")
 
 testAndPlotCorrelation(data$HDIValue, data$homicideRate, 
-                       "Human Development Index Value vs Intentional Homicide Rate by Country", 
-                       "Human Development Index Value", "Intentional Homicide Rate (per 100 000 people)")
-
-testAndPlotCorrelation(data$HDIRank, data$homicideRate, 
                        "Human Development Index Value vs Intentional Homicide Rate by Country", 
                        "Human Development Index Value", "Intentional Homicide Rate (per 100 000 people)")
 
